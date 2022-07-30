@@ -1,0 +1,9 @@
+{
+	"ip":"dragoncraft12121.aternos.me",
+	"port": 48297,
+	"name": "afkyuvisteam4",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register gta123 gta123",
+	"login-cmd":"/login gta123"
+}
